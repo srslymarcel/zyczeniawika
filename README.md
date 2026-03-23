@@ -1,2 +1,1 @@
-# zyczeniawika
-zyczenia dla Wiki
+
